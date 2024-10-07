@@ -1,3 +1,13 @@
+
+.container-lg {
+    padding-top: 10px;
+}
+
+
+
+/*colonna 1*/
+
+
 .col {
     background-color: grey;
     margin-top: 55px;
@@ -8,6 +18,9 @@
     background-color:rgba(128, 128, 128, 0.207)
 }
 
+
+
+/*colonna 2*/
 
 .color-blu {
     background-color: blue;
@@ -26,5 +39,21 @@
 }
 
 
+/*colonna 3*/
 
+.color-azure {
+    background-color: rgb(25, 249, 249);
+}
 
+.color-yellow {
+    background-color: rgb(204, 204, 4);
+}
+
+.color-black {
+    background-color: rgb(34, 33, 33);
+    color: white;
+}
+
+.color-grey {
+    background-color: grey;
+}
