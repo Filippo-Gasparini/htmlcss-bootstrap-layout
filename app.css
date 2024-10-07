@@ -4,12 +4,6 @@
 
 }
 
-
-
-
-
-
-
 .color-white {
     background-color:rgba(128, 128, 128, 0.207)
 }
@@ -17,13 +11,20 @@
 
 .color-blu {
     background-color: blue;
+    margin-top: 80px;
 }
 
 
 .color-green {
     background-color: green;
+    padding: 80px;
 }
 
 .color-red {
     background-color: red;
+    padding: 80px;
 }
+
+
+
+
